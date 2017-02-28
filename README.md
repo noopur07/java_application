@@ -1,2 +1,1 @@
-# java_application
-testing gitignore
+# grants
